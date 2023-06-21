@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/React-Portfolio/static/css/main.7ca0203a.css",
+    "main.js": "/React-Portfolio/static/js/main.d08d6cdc.js",
+    "static/media/projectBG.jpg": "/React-Portfolio/static/media/projectBG.a2516ce132cf8ea14da2.jpg",
+    "static/media/aboutimg.jpg": "/React-Portfolio/static/media/aboutimg.2a8407d390ca3086404e.jpg",
+    "static/media/Pooji photo.jpeg": "/React-Portfolio/static/media/Pooji photo.d03dc2302d56ec362bae.jpeg",
+    "static/media/projectcard1.jpg": "/React-Portfolio/static/media/projectcard1.691306efdb558df8ff17.jpg",
+    "static/media/homeimg.avif": "/React-Portfolio/static/media/homeimg.5b067d9d68c91529064d.avif",
+    "index.html": "/React-Portfolio/index.html",
+    "main.7ca0203a.css.map": "/React-Portfolio/static/css/main.7ca0203a.css.map",
+    "main.d08d6cdc.js.map": "/React-Portfolio/static/js/main.d08d6cdc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7ca0203a.css",
+    "static/js/main.d08d6cdc.js"
+  ]
+}
